@@ -13,8 +13,8 @@ agent and a main engine located at the bottom of it. Firing the main engine resu
 -0.3 reward per frame. A successful landing is a landing that has the total reward
 greater than 200. </br>
 # Contributers
-* #### Enes Duran  </br>
-* #### Muhammed Naci Dalkıran </br>
+* ### Enes Duran  </br>
+* ### Muhammed Naci Dalkıran </br>
 # Metodology
 * DDPG </br>
 * DQN </br>
